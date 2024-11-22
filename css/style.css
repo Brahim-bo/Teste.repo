@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+
+#repo {
+background-color: rgb(108, 121, 121);
+display: flex;
+font-family: sans-serif;
+}
+li {
+    list-style: none;
+    display: inline;
+    padding: 8px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    position:relative;
+    left: 550px;
+   direction: 5s;
+    
+}
+#list {
+    margin-top: 5px;
+}
+.logo {
+font-size: 25px;
+
+}
+
+a:hover {
+    color: #ffff00;
+}
+.logo:hover {
+    color: #ff0000;
+}

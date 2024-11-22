@@ -1,0 +1,26 @@
+
+.kolchi {
+   background-color: rgb(74, 77, 54);
+   text-align: center;
+   width: 650px;
+   height: 155px;
+   position: relative;
+   top: 40px;
+   left: 350px;
+}
+#logo {
+    font-size: 30px;
+    color: brown;
+    position: relative;
+    top: 15px;
+}
+
+#lfa9ra {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 20px;
+}
+#logo:hover {
+    color: white;
+}
